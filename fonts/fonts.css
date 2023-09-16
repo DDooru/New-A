@@ -1,0 +1,84 @@
+.스펙업 {
+    position: relative;
+    font-family: notosanscjkkr;
+    top: 20px;
+    left: 30px;
+}
+.게시판 {
+    position: relative;
+    font-family:notosanscjkkr;
+    top: 20px;
+    left: 30px;
+}
+.공략 {
+    position: relative;
+    font-family: notosanscjkkr;
+    top: 20px;
+    left: 30px;
+}
+.스토리 {
+    position: relative;
+    font-family: notosanscjkkr;
+    top: 20px;
+    left: 30px;
+}
+.기본공략 {
+    position: relative;
+    font-family: notosanscjkkr;
+    top: 20px;
+    left: 30px;
+}
+.길드홍보 {
+    position: relative;
+    font-family: notosanscjkkr;
+    top: 20px;
+    left: 30px;
+}
+.스펙자세히보기 {
+    position: absolute;
+    padding-bottom: 20xp;
+    bottom: 20px;
+    right: 30px;
+
+    font-size: 14px;
+}
+.게시판자세히보기 {
+    position: absolute;
+    padding-bottom: 20xp;
+    bottom: 20px;
+    right: 30px;
+    
+    font-size: 14px;
+}
+.스토리자세히보기 {
+    position: absolute;
+    padding-bottom: 20xp;
+    bottom: 20px;
+    right: 30px;
+    
+    font-size: 14px;
+}
+.길드홍보자세히보기 {
+    position: absolute;
+    padding-bottom: 20xp;
+    bottom: 20px;
+    right: 30px;
+    
+    font-size: 14px;
+}
+.공략자세히보기 {
+    position: absolute;
+    padding-bottom: 20xp;
+    bottom: 20px;
+    right: 30px;
+    
+    font-size: 14px;
+}
+.기본공략자세히보기 {
+    position: absolute;
+    padding-bottom: 20xp;
+    bottom: 20px;
+    right: 30px;
+    
+    font-size: 14px;
+}
